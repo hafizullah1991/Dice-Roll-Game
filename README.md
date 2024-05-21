@@ -31,14 +31,11 @@ The game is designed to work on modern web browsers like Google Chrome, Mozilla 
 
 The project uses HTML, CSS, and JavaScript for its implementation.
 
-### Contributing
 
-Contributions to the project are welcome! If you have any ideas for improvements or new features, feel free to fork the repository, make your changes, and submit a pull request.
 
-### License
+## Installation and Setup
 
-This project is open source and available under the [MIT License](LICENSE).
+1. Clone the repository:
 
-## Authors
-
-- [Your Name](https://github.com/yourusername) - Initial work
+   ```bash
+   https://github.com/hafizullah1991/Dice-Roll-Game
